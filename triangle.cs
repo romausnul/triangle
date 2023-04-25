@@ -27,7 +27,7 @@
 
             // Use a switch statement to do the math.
             switch (Console.ReadLine())
-            // ZА НАШЕХ
+            // ZА НАШЕХ.
             // Wait for the user to respond before closing.
             Console.Write("Ты помоему перепутал");
             Console.ReadKey();
